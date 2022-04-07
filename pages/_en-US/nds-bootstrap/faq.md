@@ -46,8 +46,8 @@ A Donor ROM can be set using **TW**i**L**ight Menu++.
 
 #### What is the best Donor ROM?
 There is no *best* one to use.     
-If you're a DSiWarehax user, it is preferred to set an SDK5 ROM containing a sub-version higher than 0. However, if you have no existing DSiWare ROM, you can dump a ROM of *Nintendo DSi Sound* (SDK5.0) using GodMode9**i**, and set DSi Sound as a Donor ROM.     
-If you own a 3DS console though, it is preferable to dump the DS WiFi Settings ROM (SDK5.5) using GodMode9, and instead, set DS WiFi Settings as a Donor ROM, as doing so allows sleep mode to be activated in DSiWare without waiting 9 seconds.
+If you're a DSiWarehax user, it is preferred to set an SDK5 ROM containing a sub-version higher than 0. However, if you have no existing DSiWare ROM, you can dump a ROM of *Nintendo DSi Sound* (SDK5.0) using GodMode9**i**, and set *Nintendo DSi Sound* as a Donor ROM.     
+If you own a 3DS console though, it is preferable to dump a ROM of *Nintendo DS Browser* (SDK5.5) using GodMode9, and instead, set *Nintendo DS Browser* as a Donor ROM, as doing so allows sleep mode to be activated in DSiWare without waiting 9 seconds.
 
 #### Why can't I set a Donor ROM?
 If there's a title requiring a Donor ROM, and the ROM TWLMenu++ stated to find doesn't show the option to set it as one (provided you've scrolled down), then find another ROM to set as a donor.
